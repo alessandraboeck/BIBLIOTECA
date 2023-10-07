@@ -51,3 +51,17 @@ C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblio
 C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\api\rest\web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\config\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\core\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\doc\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\lang\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\library\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\plugins\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\scripts\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\vendor\dapphp\securimage\web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\vendor\Web.config
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\api\rest\api.postman_collection.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\api\rest\env.postman_environment.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\api\rest\swagger.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\vendor\composer\installed.json
