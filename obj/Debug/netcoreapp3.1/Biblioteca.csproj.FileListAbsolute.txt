@@ -65,3 +65,7 @@ C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblio
 C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\api\rest\env.postman_environment.json
 C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\api\rest\swagger.json
 C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\bin\Debug\netcoreapp3.1\mantis\vendor\composer\installed.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\administrador.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\EdicaoUsuario.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 2\UC07\PROJETO_BIBLIOTECA\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
