@@ -11,20 +11,20 @@ namespace Biblioteca.Controllers
     {
         public static void CheckLogin(Controller controller)
         {   
-            if(string.IsNullOrEmpty(controller.HttpContext.Session.GetString("user")))
+            if(string.IsNullOrEmpty(controller.HttpContext.Session.GetString("Login")))
             {
                 controller.Request.HttpContext.Response.Redirect("/Home/Login");
             }
         }
 
-        public static bool verificaLoginSenha(string Login, string senha, Controller controller)
+        public static bool verificaLoginSenha(string login, string senha, Controller controller)
         {
             using(BibliotecaContext bc = new BibliotecaContext())
             {
                 verificaSeUsuarioAdminExiste(bc);
 
                 senha = Criptografo.TextoCriptografado(senha);
-                IQueryable<Usuario> UsuarioEncontrado = bc.Usuarios.Where(u => u.Login == Login && u.Senha == senha);
+                IQueryable<Usuario> UsuarioEncontrado = bc.Usuarios.Where(u => u.Login == login && u.Senha == senha);
 
                 List<Usuario> listaUsuarioEncontrado = UsuarioEncontrado.ToList();
 
@@ -65,7 +65,7 @@ namespace Biblioteca.Controllers
 
         public static void verificaSeUsuarioAdmin(Controller controller)
         {
-            if(controller.HttpContext.Session.GetInt32("Tipo") == Usuario.ADMIN)
+            if(controller.HttpContext.Session.GetInt32("Tipo") != Usuario.ADMIN)
             {
                 controller.Request.HttpContext.Response.Redirect("/Usuarios/administrador");
             }

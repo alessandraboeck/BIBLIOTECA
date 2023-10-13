@@ -59,7 +59,7 @@ namespace Biblioteca.Controllers
         {
             new UsuarioService().editarUsuario(userEditado);
 
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("ListaDeUsuarios");
         }
 
         public IActionResult ExcluirUsuario(int Id)
